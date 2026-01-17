@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/sagarpb1201/Social-links-profile)
+- Live Site URL: [Live](https://social-links-profile-carrd.netlify.app)
 
 ## My process
 Since this was the third challenge, i took all the learnings and mistakes from my last two challenges and applied them here. 
